@@ -1,1 +1,24 @@
-# FluencyBot-AI-Powered-English-Speaking-App-
+# FluencyBot AI-Powered English Speaking App
+<img src="img/1.png" height="600px" >
+<img src="img/2.png" height="600px" >
+<img src="img/3.png" height="600px" >
+<img src="img/4.png" height="600px" >
+<img src="img/5.png" height="600px" >
+<img src="img/6.png" height="600px" >
+<img src="img/7.png" height="600px" >
+<img src="img/8.png" height="600px" >
+<img src="img/9.png" height="600px" >
+<img src="img/10.png" height="600px" >
+<img src="img/11.png" height="600px" >
+<img src="img/12.png" height="600px" >
+<img src="img/13.png" height="600px" >
+<img src="img/14.png" height="600px" >
+<img src="img/15.png" height="600px" >
+<img src="img/16.png" height="600px" >
+<img src="img/17.png" height="600px" >
+<img src="img/18.png" height="600px" >
+<img src="img/19.png" height="600px" >
+<img src="img/20.png" height="600px" >
+<img src="img/21.png" height="600px" >
+<img src="img/22.png" height="600px" >
+<img src="img/23.png" height="600px" >
